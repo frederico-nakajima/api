@@ -21,6 +21,7 @@ O RocketNotes é uma aplicação de gerenciamento de notas que permite aos usuá
 ## Tecnologias Utilizadas
 
 - **Node.js**: Plataforma de execução para o JavaScript.
+- **Docker**: ferramenta que empacota a aplicação junto com tudo que ela precisa para rodar, de forma isolada e previsível..
 - **Express**: Framework web para Node.js.
 - **Knex.js**: Construtor de consultas SQL para Node.js.
 - **SQLite**: Banco de dados utilizado para armazenamento local.
